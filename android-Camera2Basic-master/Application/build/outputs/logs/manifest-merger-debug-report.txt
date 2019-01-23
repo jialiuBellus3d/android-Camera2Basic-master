@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:18:1-41:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\270ec52e381c1a8b3676746b2a1c92b8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\3c3c96a11a6d20370d92914952b40f97\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\7ffdd3dd10af06637a5282bfc51e29db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\86f2fc54daa50e86e0eebc7141d5b566\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\1f84379df8ffe6f1859f83a8cfaca7f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\6e64bf68315371bc56fc4873a5ed05e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\356c15c58fa3998551118b0630b3b8be\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\e5d6a23eb8fd678252bc14c845da2c16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\b8cf0e3d87f31d5880af7b35bda386ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\5223d713a775777bf9954c2afe1ea2d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\ccf7c758f397a39235b35ac9742c44ee\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\3f04d7309e3f75101c08e5a206afe22c\AndroidManifest.xml:17:1-24:12
+	package
+		ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:19:5-47
+	xmlns:android
+		ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:21:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:23:22-77
+uses-feature#android.hardware.camera
+ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:24:5-60
+	android:name
+		ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:24:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:25:5-70
+	android:name
+		ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:25:19-67
+application
+ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:27:5-39:19
+	android:label
+		ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:29:9-45
+	android:allowBackup
+		ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:27:18-44
+	android:theme
+		ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:30:9-45
+activity#com.example.android.camera2basic.CameraActivity
+ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:32:9-38:20
+	android:label
+		ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:33:19-51
+	android:name
+		ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:32:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+INJECTED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\270ec52e381c1a8b3676746b2a1c92b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\270ec52e381c1a8b3676746b2a1c92b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\3c3c96a11a6d20370d92914952b40f97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\3c3c96a11a6d20370d92914952b40f97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\7ffdd3dd10af06637a5282bfc51e29db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\7ffdd3dd10af06637a5282bfc51e29db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\86f2fc54daa50e86e0eebc7141d5b566\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\86f2fc54daa50e86e0eebc7141d5b566\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\1f84379df8ffe6f1859f83a8cfaca7f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\1f84379df8ffe6f1859f83a8cfaca7f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\6e64bf68315371bc56fc4873a5ed05e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\6e64bf68315371bc56fc4873a5ed05e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\356c15c58fa3998551118b0630b3b8be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\356c15c58fa3998551118b0630b3b8be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\e5d6a23eb8fd678252bc14c845da2c16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\e5d6a23eb8fd678252bc14c845da2c16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\b8cf0e3d87f31d5880af7b35bda386ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\b8cf0e3d87f31d5880af7b35bda386ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\5223d713a775777bf9954c2afe1ea2d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\5223d713a775777bf9954c2afe1ea2d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\ccf7c758f397a39235b35ac9742c44ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\ccf7c758f397a39235b35ac9742c44ee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\3f04d7309e3f75101c08e5a206afe22c\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\jiali\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\3f04d7309e3f75101c08e5a206afe22c\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+INJECTED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+		ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+		ADDED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Bellus3D\Modules\845\android-Camera2Basic-master\android-Camera2Basic-master\Application\src\main\AndroidManifest.xml

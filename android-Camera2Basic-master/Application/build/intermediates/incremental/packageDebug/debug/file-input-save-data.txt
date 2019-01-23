@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Jan 22 16:39:25 PST 2019
+0.baseType=DIRECTORY
+0.base=D\:\\Bellus3D\\Modules\\845\\android-Camera2Basic-master\\android-Camera2Basic-master\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
